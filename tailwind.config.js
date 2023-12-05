@@ -11,7 +11,7 @@ module.exports = {
       'yellow': '#facb3b',
       'dark-purple': '#090e23',
       'light-purple': '#3a10e5',
-      'light-gray': '#F0F0F0'
+      'light-gray': '#FAFAFA'
     },
     textColor: {
       'light-purple': '#3a10e5',
